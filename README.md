@@ -12,3 +12,6 @@ Python code from Python 101 class by Uncle Engineer.
 
 # EP.4
 การใช้ List, Dictionary, ประเภทการบันทึกข้อมูล และการบันทึกข้อมูลในไฟล์ CSV
+
+# EP.5
+พื้นฐาน pip, List, Dictionary, for loop, while loop, if condition
