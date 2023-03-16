@@ -15,3 +15,6 @@ Python code from Python 101 class by Uncle Engineer.
 
 # EP.5
 พื้นฐาน pip, List, Dictionary, for loop, while loop, if condition
+
+# EP.6
+การสร้าง Class, Object, Method, , Attribute, Instance และ Subclass
